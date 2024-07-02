@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #D6DAC8;
+}
+
+.container {
+    /* border: 2px solid red; */
+    text-align: center;
+    margin: 10vw;
+
+}
+
+button {
+    background: #FF7F3E;
+    padding: 1vw;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+}
+
+.icon1,.icon2 {
+    width: 2vw;
+    text-align: end;
+    margin: 0.5vw;
+    float: right;
+}
+
+.navbar {
+    border: 1px solid red;
+    width: 100%;
+}
+
+p {
+    font-size: 2vw;
+}
+
+.lightColor{
+    background: #D6DAC8; 
+    color: black;
+}
+
+.darkColor{
+    background: black;
+    color: white;
+}
